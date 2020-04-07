@@ -1,0 +1,27 @@
+{
+    "name": "zeeyn/evocms-eternal-cookies",
+    "description": "Cookies package for EvolutionCMS",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikita \"ZeeyN\" Rusakov",
+            "email": "zeeynnik@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "EvolutionCMS\\ZeeyN\\EternalCookies\\": "core"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "EvolutionCMS\\ZeeyN\\EternalCookies\\src\\EternalCookiesServiceProvider"
+            ]
+        }
+    }
+}
