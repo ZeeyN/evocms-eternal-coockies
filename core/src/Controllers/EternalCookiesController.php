@@ -1,5 +1,5 @@
 <?php
-namespace EvolutionCMS\ZeeyN\EternalCookies\src\Controllers;
+namespace EvolutionCMS\ZeeyN\EternalCookies\Controllers;
 
 class EternalCookiesController
 {

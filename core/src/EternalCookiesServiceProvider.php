@@ -3,7 +3,7 @@ namespace EvolutionCMS\ZeeyN\EternalCookies\src;
 
 use EvolutionCMS;
 use EvolutionCMS\ServiceProvider;
-use EvolutionCMS\ZeeyN\EternalCookies\src\Controllers\EternalCookiesController;
+use EvolutionCMS\ZeeyN\EternalCookies\Controllers\EternalCookiesController;
 
 class EternalCookiesServiceProvider extends ServiceProvider
 {
