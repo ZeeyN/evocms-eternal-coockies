@@ -14,13 +14,14 @@
     },
     "autoload": {
         "psr-4": {
-            "EvolutionCMS\\ZeeyN\\EternalCookies\\": "core"
+            "EvolutionCMS\\ZeeyN\\EternalCookies\\": "src",
+            "EvolutionCMS\\ZeeyN\\EternalCookies\\Modules\\": "modules"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "EvolutionCMS\\ZeeyN\\EternalCookies\\src\\EternalCookiesServiceProvider"
+                "EvolutionCMS\\ZeeyN\\EternalCookies\\EternalCookiesServiceProvider"
             ]
         }
     }
