@@ -7,7 +7,7 @@
             padding: 0 !important
         }
 
-        ;
+
         .myhover {
             background: #FEFEFE !important;
         }
