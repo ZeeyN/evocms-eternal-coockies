@@ -12,6 +12,6 @@ View::setFinder($viewFinder);
 
 
 
-echo (string)View::make('ec.interface.blade.php');
+echo (string)View::make('interface');
 //$template = file_get_contents(dirname(__FILE__) . '/ec.interface.tpl')
 //echo $template;
