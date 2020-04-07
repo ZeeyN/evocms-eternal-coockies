@@ -1,5 +1,5 @@
 <?php
-namespace EvolutionCMS\ZeeyN\EternalCookies\src;
+namespace EvolutionCMS\ZeeyN\EternalCookies;
 
 use EvolutionCMS;
 use EvolutionCMS\ServiceProvider;
