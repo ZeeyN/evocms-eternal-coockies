@@ -14,7 +14,7 @@ class EternalCookiesServiceProvider extends ServiceProvider
         $this->evo = EvolutionCMS();
         $this->app->registerModule(
                 'EternalCookies',
-                dirname(__DIR__) . '/modules/ec.module.php'
+                dirname(__DIR__) . '/modules/config_module/ec.module.php'
         );
         $this->evo->addDataToView([
                 'EternalCookies' => new EternalCookiesController()
