@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "EvolutionCMS\\ZeeyN\\EternalCookies\\src\\EternalCookiesServiceProvider"
+                "EvolutionCMS\\ZeeyN\\EternalCookies\\EternalCookiesServiceProvider"
             ]
         }
     }
