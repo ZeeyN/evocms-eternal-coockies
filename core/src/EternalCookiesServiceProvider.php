@@ -1,9 +1,9 @@
 <?php
-namespace EvolutionCMS\ZeeyN\EternalCookies;
+namespace EvolutionCMS\ZeeyN\EternalCookies\src;
 
 use EvolutionCMS;
 use EvolutionCMS\ServiceProvider;
-use EvolutionCMS\ZeeyN\EternalCookies\Controllers\EternalCookiesController;
+use EvolutionCMS\ZeeyN\EternalCookies\src\Controllers\EternalCookiesController;
 
 class EternalCookiesServiceProvider extends ServiceProvider
 {

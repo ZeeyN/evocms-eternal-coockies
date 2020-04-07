@@ -1,6 +1,6 @@
 <?php
 
-namespace EvolutionCMS\ZeeyN\EternalCookies;
+namespace EvolutionCMS\ZeeyN\EternalCookies\plugins;
 
 use EvolutionCMS;
 use Event;
